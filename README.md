@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidescuOvidiu
 - 👀 I’m interested in learn to code
-- 🌱 I’m currently learning QA, python
+- 🌱 I’m currently learning manual testing, python
 - 💞️ I’m looking to for a entry job :D
 - 📫 How to reach me - davidescu.ovi@gmail.com
 
