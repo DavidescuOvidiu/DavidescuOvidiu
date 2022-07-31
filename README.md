@@ -18,13 +18,13 @@ You can find examples of the described skills in the Examples of my work section
 - tested different APIs using POST, PUT, GET, DELETE methods
 - know how to manipulate JSON objects for requests in Postman tool
 - know how to use variables and environments in Postman
-- 
+
 **SQL**
 
 - familiar with all basic instructions in SQL
 - can write simple interogation queries, but also complex ones with subqueries
 - know how to use JOINS in queries
-- 
+
 **Tools**
 
 - Zephyr for JIRA
