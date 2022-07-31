@@ -10,7 +10,7 @@ You can find examples of the described skills in the Examples of my work section
 - can create bug reports for the defects found and link them with the appropriate requirement
 - can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
 - can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
-- 
+
 **API**
 
 - gained experience through manual testing of APIs created for educational purposes
