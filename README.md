@@ -27,8 +27,8 @@ You can find examples of the described skills in the Examples of my work section
 - 
 **Tools**
 
-Zephyr for JIRA
-JIRA
-Postman
-MySQL Workbench
-Python
+- Zephyr for JIRA
+- JIRA
+- Postman
+- MySQL Workbench
+- Python
