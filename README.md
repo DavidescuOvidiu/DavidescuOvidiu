@@ -1,5 +1,9 @@
 # **Portofolio**
 
+## About me
+
+My name is Davidescu Ovidiu. I have started to take an interest in the software testing area. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+
 ## **Skills**
 
 You can find examples of the described skills in the Examples of my work section.
