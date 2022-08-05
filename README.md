@@ -31,10 +31,18 @@ You can find examples of the described skills in the Examples of my work section
 - can write simple interogation queries, but also complex ones with subqueries
 - know how to use JOINS in queries
 
-**Tools**
+## **Tools**
 
 - Zephyr for JIRA
 - JIRA
 - Postman
 - MySQL Workbench
 - Python
+
+## Examples of my work
+
+### Final project for ITF Manual Testing Course
+
+The final project consisted of choosing a module from an application and start the testing process based on business specifications, from Test Planning until Test Completion.
+
+The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/DavidescuOvidiu/Final-Project-IT-Factory)
