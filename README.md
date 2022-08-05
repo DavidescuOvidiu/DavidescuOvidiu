@@ -49,3 +49,5 @@ The test plan, test cases, bugs, test results for the final project can be found
 
 ### Testing plan for [YOUR LOGA a new experience](http://automationpractice.com/index.php)
 
+The testing plan was done during the Coders Lab course and it contains the strategy before the actual testing occurs. You can find it [here](https://github.com/DavidescuOvidiu/Test-Plan)
+
