@@ -1,4 +1,4 @@
-**Skills**
+_**Skills**_
 
 You can find examples of the described skills in the Examples of my work section.
 
